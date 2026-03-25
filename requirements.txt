@@ -1,4 +1,5 @@
 flask
 twilio
-anthropic
+anthropic==0.28.0
 gunicorn
+httpx==0.24.1
